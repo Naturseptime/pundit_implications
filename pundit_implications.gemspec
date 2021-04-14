@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'pundit_implications'
-  s.version     = '0.1.0'
+  s.version     = '0.1.1'
   s.licenses    = ['MIT']
   s.summary     = "Permission implications for Pundit"
   s.description = "A small mixin for handling permission implications in Pundit"
