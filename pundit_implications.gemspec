@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Tamás Korodi"]
   s.email       = 'tamaskorodi1988@gmail.com'
   s.files       = ["lib/pundit_implications.rb"]
-  s.homepage    = 'https://rubygems.org/gems/pundit_implications'
+  s.homepage    = 'https://github.com/Naturseptime/pundit_implications'
   s.metadata    = { "source_code_uri" => "https://github.com/Naturseptime/pundit_implications" }
   s.add_development_dependency 'minitest', '~> 5.0'
 end
